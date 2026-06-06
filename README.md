@@ -27,17 +27,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nehalu460-prog&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nehalu460-prog&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalu460-prog&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalu460-prog&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=nehalu460-prog&theme=tokyonight" />
-</p>
 ---
 
 ## 📂 Featured Projects
