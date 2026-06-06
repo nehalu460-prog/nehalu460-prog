@@ -29,6 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nehalu460-prog&show_icons=true&theme=tokyonight)
+![Nehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehalu460-prog&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehalu460-prog&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehalu460-prog&layout=compact&theme=github_dark)
